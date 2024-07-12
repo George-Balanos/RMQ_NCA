@@ -67,11 +67,11 @@ java NCA < <tree-file>.txt
 
 ### Sources: 
 
-https://en.wikipedia.org/wiki/Cartesian_tree#Range_searching_and_lowest_common_ancestors
+https://en.wikipedia.org/wiki/Cartesian_tree#Range_searching_and_lowest_common_ancestors<br>
 [1] M. A. Bender, M. F. Colton. “The LCA Problem Revisited”. (2000) Link: 
-https://www.ics.uci.edu/~eppstein/261/BenFar-LCA-00.pdf 
-[2] R. E. Tarjan, “Applications of path compression on balanced trees” (1979). 
-[3]https://en.wikipedia.org/wiki/Tarjan%27s_offline_lowest_common_ancestors_al
+https://www.ics.uci.edu/~eppstein/261/BenFar-LCA-00.pdf <br>
+[2] R. E. Tarjan, “Applications of path compression on balanced trees” (1979). <br>
+[3]https://en.wikipedia.org/wiki/Tarjan%27s_offline_lowest_common_ancestors_al <br>
 gorithm
 
 
